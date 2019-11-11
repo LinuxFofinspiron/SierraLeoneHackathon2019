@@ -1,2 +1,2 @@
 # SierraLeoneHackathon2019
-This contains solution to the Sierra Leone Hackathon entry problem set for the 2019 session.
+This contains solution to the Sierra Leone Hackathon API Challenges for Days 1 and 2 Hosted at the DSTI GOSL
